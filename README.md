@@ -1,12 +1,12 @@
 # Spectral Function Modeling (Spectral_fn)
 
-This repository implements a data-efficient deep-kernel Gaussian process surrogate model with sparse variational inference (DKL-SVGP) for spectral functions of the $t$-$t'$-$t''$-$J$ model. It includes training, checkpoint evaluation, and benchmarking scripts for comparing the DKL-SVGP model against feed-forward neural network (FFNN) baselines from Lee, Carbone, and Yin, Phys. Rev. B 107, 205132 (2023).
+This repository implements a data-efficient deep-kernel Gaussian process surrogate model with sparse variational inference (DKL-SVGP) for spectral functions of the $t$- $t$'- $t$''- $J$ model. It includes training, checkpoint evaluation, and benchmarking scripts for comparing the DKL-SVGP model against feed-forward neural network (FFNN) baselines from Lee, Carbone, and Yin, Phys. Rev. B 107, 205132 (2023).
 
 ## Associated paper
 
 This repository accompanies the arXiv preprint:
 
-**[Data-efficient surrogate modeling of spectral functions using Gaussian processes: An application to the $t$-$t'$-$t''$-$J$ model](https://arxiv.org/pdf/2603.13064)**
+**[Data-efficient surrogate modeling of spectral functions using Gaussian processes: An application to the t-t'-t''-J model](https://arxiv.org/pdf/2603.13064)**
 
 **Sanket Jantre**, Nathan M. Urban, Weiguo Yin, and Niraj Aryal
 
